@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+  <head>
+    <title>My Todo List</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="todo.css" />
+  </head>
+  <body>
+    <div class="page_look">
+      <div class="main_page">
+        <div class="big_container">
+          <h1 class="Title">My Todo List</h1>
+
+          <div class="Add_todo">
+            <input id="Add_bar" type="text" placeholder="ADD a to-do item..." />
+            <button id="add_but">Add</button>
+          </div>
+          <ul id="todolist"></ul>
+          <p id="counter"></p>
+        </div>
+
+        <div class="side_page">
+          <button id="All_btn">All</button>
+          <button id="Active_btn">Active</button>
+          <button id="Completed_btn">Completed</button>
+        </div>
+      </div>
+    </div>
+    <script src="todo.js"></script>
+  </body>
+</html>
