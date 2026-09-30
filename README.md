@@ -1,2 +1,32 @@
-# Todo-List-
-todo list project 
+# My Todo List
+
+A simple and responsive Todo List web app built with HTML, CSS, and JavaScript, featuring task management, filtering, editing, and persistent local storage.
+
+## Screenshot
+
+<img width="1912" height="921" alt="image" src="https://github.com/user-attachments/assets/cc6612b8-5bdb-4798-8452-2b00b0e433c0" />
+
+
+## Features
+
+* Add new tasks
+* Mark tasks as completed
+* Edit existing tasks
+* Delete tasks
+* Filter tasks by:
+
+  * All
+  * Active
+  * Completed
+* Display the number of remaining tasks
+* Save tasks automatically using `localStorage`
+* Responsive and clean user interface
+
+## How to Run
+
+1. Download or clone this repository.
+2. Open `index.html` in your browser.
+3. Start adding and managing your tasks!
+
+No installation or additional dependencies are required.
+
