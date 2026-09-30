@@ -4,7 +4,8 @@ A simple and responsive Todo List web app built with HTML, CSS, and JavaScript, 
 
 ## Screenshot
 
-<img width="1912" height="921" alt="image" src="https://github.com/user-attachments/assets/cc6612b8-5bdb-4798-8452-2b00b0e433c0" />
+<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/083f4deb-e1ce-4d1e-8f46-bbb2d23598b1" />
+
 
 
 ## Features
