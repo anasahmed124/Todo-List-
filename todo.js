@@ -71,6 +71,7 @@ function render() {
     li.appendChild(btnBox);
 
     const deleteBtn = document.createElement("button");
+    deleteBtn.id = "deleteBtn";
     deleteBtn.textContent = "Delete";
     deleteBtn.setAttribute("aria-label", `Delete task: ${task.title}`);
     btnBox.appendChild(deleteBtn);
@@ -83,6 +84,7 @@ function render() {
     });
 
     const editBtn = document.createElement("button");
+    editBtn.id = "editBtn";
     editBtn.textContent = "Edit";
     editBtn.setAttribute("aria-label", `Edit task: ${task.title}`);
     btnBox.appendChild(editBtn);
