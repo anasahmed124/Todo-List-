@@ -1,4 +1,4 @@
-# My Todo List
+# My To-Do List
 
 A simple and responsive Todo List web app built with HTML, CSS, and JavaScript, featuring task management, filtering, editing, and persistent local storage.
 
